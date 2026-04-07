@@ -1,9 +1,6 @@
 /* --- Google Fonts --- */
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:400,700");
 
-/* --- Components design --- */
-@import url("components/navbar.css");
-
 /* --- Fonts & colors --- */
 body {
   font-family: "Open Sans", "Helvetica", "sans-serif";
@@ -18,8 +15,26 @@ h1, h2, h3 {
 
 .red {
   color: red;
+  background-color: pink;
 }
 
 .green {
   color: green;
 }
+
+img {
+  width: 200px;
+}
+
+.img-circle {
+  border-radius: 50%;
+  width: 500px;
+}
+
+
+
+
+
+
+
+

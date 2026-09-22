@@ -1,12 +1,7 @@
-{
-  "citations": [
-    {
-      "author": "Simone de Beauvoir",
-      "text": "On ne naît pas femme, on le devient."
-    },
-    {
-      "author": "Simone de Beauvoir",
-      "text": "On ne naît pas femme, on le devient."
-    }
-  ]
-}
+[
+  { "nom": "Gymnase Léo Lagrange", "type": "Salle multisports", "arrondissement": "19" },
+  { "nom": "Court Suzanne Lenglen", "type": "Court de tennis", "arrondissement": "15" },
+  { "nom": "Piscine Georges Vallerey", "type": "Piscine", "arrondissement": "20" },
+  { "nom": "Dojo de la Villette", "type": "Dojo", "arrondissement": "19" },
+  { "nom": "Stade Charléty", "type": "Stade", "arrondissement": "13" }
+]
